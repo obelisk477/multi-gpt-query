@@ -1,0 +1,21 @@
+.card {
+    margin: 20px;
+}
+
+.myContainer {
+    margin: 20px 50px;
+    font-size: 2rem;
+}
+
+.top-card {
+    margin: 0;
+    height: 200px;
+}
+
+i:hover {
+    cursor: pointer;
+}
+
+#cardHolder {
+    font-size: 1rem;
+}
